@@ -1,3 +1,5 @@
+#!/usr/bin/env bash
+
 declare -ir size=10
 
 for i in $(seq 0 $((size - 1)))
